@@ -23,7 +23,7 @@ Hello, everyone！My name is Yiqiang Wen. Currently, I’m doing research as a u
 My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
 [Download CV here](assets/Yiqiang Wen CV.pdf)
 
-# 📖 Educations
+# 🎓 Educations
 - *2021.09 - 2025.07 (now)*, <strong>China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
 
   GPA: 3.64/4.0 (91/100)
@@ -43,7 +43,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 - Cancer
 - Phylogenatic and systematic biology
 
-# 📝 Research Project 
+# 🧪 Research Project 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,6 +87,9 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 📝 Publication & Patants
 
+- Haoyang Zhang, **Yiqiang Wen**, Junpeng Qu, Songjian Nan. Study on the growth characteristics of the larva of the Black soldier fly in the mixed substrate of bran and bean curd residue. Hubei Agricultural Science. 2024, 63 (7): 129-133, 153.
+- **Yiqiang Wen**, Haoyang Zhang, Junyang Li, Songjian Nan.02322532515.3: **The invention relates to an intelligent assembled larval breeding device of the Hermetia illucens** 2023.9.18. Chinese Patent.
+- Haoyang Zhang, **Yiqiang Wen**, Junyang Li, Songjian Nan 202322532458.9: The invention relates to an intelligent welfare physiological monitoring chicken coop. 2023.9.18. Chinese Patent.
 
 # 💻 Internships
 - <strong>*2023.08 - 2023.12*, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences,</strong> Yantai.
@@ -103,7 +106,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
   
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024*, <strong>Merit Student,</strong> China Agricultural University
 - *2024*, <strong>Literary and Sports Merit Scholarship,</strong> China Agricultural University
 - *2023*, <strong>Third Prize in Biochemistry Laboratory Skills,</strong> Biochemistry Innovation & Entrepreneurship Competition
