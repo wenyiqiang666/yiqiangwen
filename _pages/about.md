@@ -36,11 +36,12 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
   State Key Laboratory of Systematic and Evolutionary Botany
   
-  
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 Research Interest
+- Signaling pathway
+- Molecular mechanism
+- Immunity
+- Cancer
+- Phylogeny and system biology
 
 # 📝 Research Project 
 
