@@ -25,10 +25,18 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 📖 Educations
 - *2021.09 - 2025.07 (now)*, China Agricultural University, Bachelor of Agriculture in Aquaculture
+
   GPA: 3.64/4.0 (91/100)
-  Core Curriculum: 	Biochemistry     Cell & Molecular Biology     Genetics     Histology     Botany
-Embryology     Microbiology     Zoology     Physiology      Organic chemistry 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+  
+  Core Curriculum: 	Biochemistry, Cell & Molecular Biology, Genetics, Histology, Botany,  Embryology, Microbiology, Zoology, Physiology, Organic chemistry
+
+- *2022.07 - 2023.12*, Institute of Botany, Chinese Academy of Sciences (IB-CAS)
+
+  Joint-Training Program, Supervisor: Wenli Chen (Associate Researcher), Construction and Mining of Poaceae Species Diversity Database
+
+  State Key Laboratory of Systematic and Evolutionary Botany
+  
+  
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
