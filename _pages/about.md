@@ -41,7 +41,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 - Molecular mechanism
 - Immunity
 - Cancer
-- Phylogeny and system biology
+- Phylogenatic and systematic biology
 
 # 📝 Research Project 
 
@@ -71,8 +71,8 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 - *2022*, Excellent Student Leader, China Agricultural University
 
 
-# 💬 C
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conferences Attended & Summer School
+- *2023.10*, [The 5th Sino-German Block Seminar of IRTG AMAIZE-P](https://amaize-p.uni-hohenheim.de/en/block-seminars), University of Hohenheim, Germany 
+- *2023.07*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 
