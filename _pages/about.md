@@ -23,12 +23,18 @@ Hello, everyone！My name is Yiqiang Wen. Currently, I’m doing research as a u
 My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
 [Download CV here](assets/Yiqiang Wen CV.pdf)
 
+# 📖 Educations
+- *2021.09 - 2025.07 (now)*, China Agricultural University, Bachelor of Agriculture in Aquaculture
+  GPA: 3.64/4.0 (91/100)
+  Core Curriculum: 	Biochemistry     Cell & Molecular Biology     Genetics     Histology     Botany
+Embryology     Microbiology     Zoology     Physiology      Organic chemistry 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Research Project 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,9 +54,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
