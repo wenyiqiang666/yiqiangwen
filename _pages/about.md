@@ -57,15 +57,16 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2017</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Phylogenetic and Systematic Research about Needle Grasses (Poaceae: Pooideae: Stipeae)**
 
-**Chinese Academy of Sciences**, Supervisor: [Wenli Chen](http://www.lseb.cn/yjdw/yjry/fyjy/202001/t20200111_538949.html)(Associate Researcher)
+**Chinese Academy of Sciences**, Supervisor: [Wenli Chen](http://www.lseb.cn/yjdw/yjry/fyjy/202001/t20200111_538949.html)(Associate Researcher), Oct. 2023 – Present
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Research methods**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This research is based on analysis of **chloroplast genome, ITS, Cytogenetics (chromosome), and lemma micromorphology**.
+- Investigate the systematic and evolutionary relationships within the needle grass tribe of the Poaceae family through both fieldwork and laboratory research, and **conduct taxonomic revisions**. 
 </div>
 </div>
 
