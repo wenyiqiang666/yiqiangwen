@@ -62,7 +62,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Chinese Academy of Sciences**, Supervisor: [Wenli Chen (Associate Researcher)](http://www.lseb.cn/yjdw/yjry/fyjy/202001/t20200111_538949.html)
+**Chinese Academy of Sciences**, Supervisor: [Wenli Chen](http://www.lseb.cn/yjdw/yjry/fyjy/202001/t20200111_538949.html)(Associate Researcher)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -103,8 +103,6 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 - Responsible for sorting and cataloging plant specimens for the National Herbarium (PE) at IB-CAS.
 
  
-  
-
 
 # 🏆 Honors and Awards
 - *2024*, <strong>Merit Student,</strong> China Agricultural University
