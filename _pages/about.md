@@ -24,7 +24,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 [Download CV here](assets/Yiqiang Wen CV.pdf)
 
 # 📖 Educations
-- *2021.09 - 2025.07 (now)*, China Agricultural University, Bachelor of Agriculture in Aquaculture
+- <strong>*2021.09 - 2025.07 (now)*, China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
 
   GPA: 3.64/4.0 (91/100)
   
