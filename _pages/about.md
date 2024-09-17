@@ -24,13 +24,13 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 [Download CV here](assets/Yiqiang Wen CV.pdf)
 
 # 📖 Educations
-- <strong>*2021.09 - 2025.07 (now)*, China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
+- *2021.09 - 2025.07 (now)*, <strong>China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
 
   GPA: 3.64/4.0 (91/100)
   
   Core Curriculum: 	Biochemistry, Cell & Molecular Biology, Genetics, Histology, Botany,  Embryology, Microbiology, Zoology, Physiology, Organic chemistry
 
-- *2022.07 - 2023.12*, Institute of Botany, Chinese Academy of Sciences (IB-CAS)
+- *2022.07 - 2023.12*, <strong>Institute of Botany, Chinese Academy of Sciences (IB-CAS)</strong>
 
   Joint-Training Program, Supervisor: Wenli Chen (Associate Researcher), Construction and Mining of Poaceae Species Diversity Database
 
@@ -59,15 +59,20 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 💻 Internships
+- *2023.08 - 2023.12*, [Lorem](https://github.com/), China.
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024*, Merit Student, China Agricultural University
+- *2024*, Literary and Sports Merit Scholarship, China Agricultural University
+- *2023*, Third Prize in Biochemistry Laboratory Skills, Biochemistry Innovation & Entrepreneurship Competition
+- *2023*, Second Prize (Top 10%) Academic Scholarship, China Agricultural University
+- *2022*, Excellent Student Leader, China Agricultural University
 
 
-
-# 💬 Invited Talks
+# 💬 C
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2023.08 - 2023.12*, [Lorem](https://github.com/), China.
+
