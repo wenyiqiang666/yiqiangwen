@@ -72,7 +72,18 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💻 Internships
-- *2023.08 - 2023.12*, [Lorem](https://github.com/), China.
+- <strong>*2023.08 - 2023.12*,Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences,</strong> Yantai.
+- Supervisor: Wenjun Li (Associate Researcher)
+- Investigated effects of phycocyanin on both pulmonary and gut microbiota in a pulmonary fibrosis model.
+- Conducted literature review on the bioactivities of phycocyanobilin derived from Spirulina.
+- Designed two experiments for extraction and preparation of phycocyanobilin.
+
+- <strong>*2022.04 - 2022.06*,Institute of Botany, Chinese Academy of Sciences (IB-CAS), Chinese Academy of Sciences,</strong> Beijing.
+- Supervisor: Wenli Chen (Associate Researcher)
+- Responsible for sorting and cataloging plant specimens for the National Herbarium (PE) at IB-CAS.
+
+ 
+  
 
 
 # 🎖 Honors and Awards
@@ -85,6 +96,6 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 💬 Conferences Attended & Summer School
 - *2023.10*, [The 5th Sino-German Block Seminar of IRTG AMAIZE-P](https://amaize-p.uni-hohenheim.de/en/block-seminars), University of Hohenheim, Germany 
-- *2023.07*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.07*, Summer School: Plant Development and Molecular Biology, Peking University, China
 
 
