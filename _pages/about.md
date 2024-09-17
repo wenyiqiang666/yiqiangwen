@@ -50,7 +50,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 [Plant Cell Surface Receptor Function Research](assets/Award letter.pdf)
 
-**University of Toronto**, Mitacs scholarship, Supervisor: Adam Mott (Assistant Professor)
+**University of Toronto**, Mitacs scholarship, Supervisor: [Adam Mott](https://www.utsc.utoronto.ca/biosci/adam-mott)(Assistant Professor)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -62,7 +62,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Chinese Academy of Sciences**, Supervisor: Wenli Chen (Associate Researcher)
+**Chinese Academy of Sciences**, Supervisor: [Wenli Chen (Associate Researcher)](http://www.lseb.cn/yjdw/yjry/fyjy/202001/t20200111_538949.html)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
