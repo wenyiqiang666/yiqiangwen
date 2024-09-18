@@ -132,7 +132,12 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 🧬 Technical Skills
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">conduct q-PCR</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - **⚗️Experimental Skills:**	bacteria/cell cultivation / plant cultivation / chromosome slide-making technique/ DNA extraction, amplification, and sequencing / q-PCR / genome editing / genotyping / phylogenetic analyses / phylogeny tree/ protein purification / gel electrophoresis / centrifugation/ scanning electron microscopy / fluorescence microscopy
 
 - **🖥️Computer Skills:**	SPSS / Solidworks (CAD Modeling) / Visual Basics / Photoshop / webpage building
 
+</div>
+</div>
