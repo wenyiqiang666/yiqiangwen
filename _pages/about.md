@@ -128,7 +128,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 # 💬 Conferences Attended & Summer School
 
 - *2023.10*, [The 5th Sino-German Block Seminar of IRTG AMAIZE-P](https://amaize-p.uni-hohenheim.de/en/block-seminars), University of Hohenheim, Germany 
-- *2023.07*, Summer School: Plant Development and Molecular Biology, Peking University, China
+- *2023.07*, [Summer School: Plant Development and Molecular Biology](assets/Transcript of summer school in Peking University.pdf), Peking University, China
 
 # 🧬 Technical Skills
 
