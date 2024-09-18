@@ -81,9 +81,6 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 
 
-
-
-
 # ⛺ Field Expedition
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Heilongjiang 2022</div><img src='images/f.png' alt="sym" width="100%"></div></div>
@@ -129,7 +126,13 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 
 # 💬 Conferences Attended & Summer School
+
 - *2023.10*, [The 5th Sino-German Block Seminar of IRTG AMAIZE-P](https://amaize-p.uni-hohenheim.de/en/block-seminars), University of Hohenheim, Germany 
 - *2023.07*, Summer School: Plant Development and Molecular Biology, Peking University, China
 
+# 🧬 Technical Skills
+
+- **⚗️Experimental Skills:**	bacteria/cell cultivation / plant cultivation / chromosome slide-making technique/ DNA extraction, amplification, and sequencing / q-PCR / genome editing / genotyping / phylogenetic analyses / phylogeny tree/ protein purification / gel electrophoresis / centrifugation/ scanning electron microscopy / fluorescence microscopy
+
+- **🖥️Computer Skills:**	SPSS / Solidworks (CAD Modeling) / Visual Basics / Photoshop / webpage building
 
