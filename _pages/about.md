@@ -45,7 +45,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 🧪 Research Project 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mitacs 2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Plant Cell Surface Receptor Function Research](assets/Award letter.pdf)
@@ -58,7 +58,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2017</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2017</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Phylogenetic and Systematic Research about Needle Grasses (Poaceae: Pooideae: Stipeae)**
@@ -75,7 +75,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # ⛺ Field Expedition
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/f.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
   **Multi-Factor Investigation of Heilongjiang Grassland**
