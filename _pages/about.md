@@ -39,9 +39,9 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 # 🔥 Research Interest
 - Signaling pathway
 - Molecular mechanism
-- Immunity
+- Immunology
 - Cancer
-- Phylogenatic and systematic biology
+- Phylogenetic and systematic biology
 
 # 🧪 Research Project 
 
@@ -58,7 +58,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2017</div><img src='images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">expected to publish in Nov.</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Phylogenetic and Systematic Research about Needle Grasses (Poaceae: Pooideae: Stipeae)**
@@ -92,7 +92,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 # 📝 Publication & Patants
 
 - Haoyang Zhang, **Yiqiang Wen**, Junpeng Qu, Songjian Nan. Study on the growth characteristics of the larva of the Black soldier fly in the mixed substrate of bran and bean curd residue. Hubei Agricultural Science. 2024, 63 (7): 129-133, 153.
-- **Yiqiang Wen**, Haoyang Zhang, Junyang Li, Songjian Nan.02322532515.3: **The invention relates to an intelligent assembled larval breeding device of the Hermetia illucens** 2023.9.18. Chinese Patent.
+- **Yiqiang Wen**, Haoyang Zhang, Junyang Li, Songjian Nan.02322532515.3: [**The invention relates to an intelligent assembled larval breeding device of the Hermetia illucens**]() 2023.9.18. Chinese Patent.
 - Haoyang Zhang, **Yiqiang Wen**, Junyang Li, Songjian Nan 202322532458.9: The invention relates to an intelligent welfare physiological monitoring chicken coop. 2023.9.18. Chinese Patent.
 
 # 💻 Internships
