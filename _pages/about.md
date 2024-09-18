@@ -40,7 +40,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 - Signaling pathway
 - Molecular mechanism
 - Immunology
-- Cancer
+- Cancer therapy
 - Phylogenetic and systematic biology
 
 # 🧪 Research Project 
@@ -65,17 +65,28 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 **Chinese Academy of Sciences**, Supervisor: [Wenli Chen](http://www.lseb.cn/yjdw/yjry/fyjy/202001/t20200111_538949.html)(Associate Researcher), Oct. 2023 – Present
 
-[**Research methods**]
 - This research is based on analysis of **chloroplast genome, ITS, Cytogenetics (chromosome), and lemma micromorphology**.
-- Investigate the systematic and evolutionary relationships within the needle grass tribe of the Poaceae family through both fieldwork and laboratory research, and **conduct taxonomic revisions**. 
+- Investigate the systematic and evolutionary relationships within the needle grass tribe of the Poaceae family through both fieldwork and laboratory research, and **conduct taxonomic revisions**.
+- [**Research methods**] DNA extraction, amplification, and sequencing / Phylogeny tree / Scanning electron microscopy (SEM) / Chromosome slide-making technique / Principal component analysis(PCA) / Academic writing
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Eco-Friendly Protein Source: Black Soldier Fly Larvae as a Fishmeal Substitute**
+  
+China Agricultural University, Supervisor: Songjian Nan (Associate Professor)	**Oct. 2022 – June.2024**
+
+- **Construction and Mining of Poaceae Species Diversity Database**
+- 
+Chinese Academy of Sciences, Supervisor: Wenli Chen (Associate Researcher)	**July 2022 – June 2023**
+
+
+
+
+
 
 # ⛺ Field Expedition
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/f.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Heilongjiang 2022</div><img src='images/f.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
   **Multi-Factor Investigation of Heilongjiang Grassland**
@@ -85,6 +96,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 [**Create ecological grass husbandry science and technology system-Class A strategic pilot science and technology project**](http://www.bulletin.cas.cn/academic?columnId=1689253405306&type=journal&activeName=74532&year=2021&index=3&lang=zh) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Participated in a **36-day** field expedition in Heilongjiang, China, across over **3000 kilometers**, conducting herbaceous plant investigation in **41 grassland sample areas**.
 - Performed plant identification, plant density and biomass measurements, and collected samples and data of over **1000 plant species**.
+- Supplied direct data support for **grassland restoration and monitoring of grass-animal balance**, and provided the scientific basis for the **sustainable development of ecological grassland husbandry** in China.
 
 </div>
 </div>
