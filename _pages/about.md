@@ -73,11 +73,11 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 - **Eco-Friendly Protein Source: Black Soldier Fly Larvae as a Fishmeal Substitute**
   
-China Agricultural University, Supervisor: Songjian Nan (Associate Professor)	**Oct. 2022 – June.2024**
+    China Agricultural University, Supervisor: Songjian Nan (Associate Professor)	**Oct. 2022 – June.2024**
 
 - **Construction and Mining of Poaceae Species Diversity Database**
-- 
-Chinese Academy of Sciences, Supervisor: Wenli Chen (Associate Researcher)	**July 2022 – June 2023**
+ 
+    Chinese Academy of Sciences, Supervisor: Wenli Chen (Associate Researcher)	**July 2022 – June 2023**
 
 
 
