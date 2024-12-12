@@ -26,7 +26,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 # 🎓 Educations
 - *2021.09 - 2025.07 (now)*, <strong>China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
 
-  GPA: 3.64/4.0 (91/100)
+  GPA: 3.65/4.0
   
   Core Curriculum: 	Biochemistry, Cell & Molecular Biology, Genetics, Histology, Botany,  Embryology, Microbiology, Zoology, Physiology, Organic chemistry
 
