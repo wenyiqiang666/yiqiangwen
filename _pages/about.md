@@ -21,7 +21,7 @@ redirect_from:
 Hello, everyone！My name is Yiqiang Wen. Currently, I’m doing research as an undergraduate researcher at University of Toronto in [the Mott Lab](http://www.themottlab.com/). My research pursuits primarily revolve around the realms of cellular and molecular biology, with a keen focus on elucidating the signaling pathways within the cell system. 
 
 My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
-[Download CV here](assets/Yiqiang Wen CV.pdf)
+[Download CV here](docs/Yiqiang Wen CV.pdf)
 
 # 🎓 Educations
 - *2021.09 - 2025.07 (now)*, <strong>China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
