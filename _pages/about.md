@@ -23,12 +23,12 @@ Hello, everyone！My name is Yiqiang Wen. Currently, I’m conducting paper writ
 My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
 [Download CV here](assets/Yiqiang Wen CV.pdf)
 
-📍Now seeking research assistant position
+📍Now seeking a research assistant position
 
 # 🎓 Educations
 - *2021.09 - 2025.07 (now)*, <strong>China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
 
-  GPA: 3.65/4.0
+  GPA: 3.65/4.0   [Transcript](assets/Yiqiang Wen Transcript.pdf)
   
   Core Curriculum: 	Biochemistry, Cell & Molecular Biology, Genetics, Histology, Botany,  Embryology, Microbiology, Zoology, Physiology, Organic chemistry
 
