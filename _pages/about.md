@@ -28,7 +28,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 # 🎓 Educations
 - *2021.09 - 2025.07 (now)*, <strong>China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
 
-  GPA: 3.65/4.0   [Transcript](assets/Yiqiang Wen Transcript.pdf)
+  GPA: 3.65/4.0      [Transcript](assets/Yiqiang Wen Transcript.pdf)
   
   Core Curriculum: 	Biochemistry, Cell & Molecular Biology, Genetics, Histology, Botany,  Embryology, Microbiology, Zoology, Physiology, Organic chemistry
 
@@ -52,7 +52,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 [Plant Cell Surface Receptor Function Research](assets/Award letter.pdf)
 
-**University of Toronto**, Mitacs scholarship, Supervisor: [Adam Mott](https://www.utsc.utoronto.ca/biosci/adam-mott)(Assistant Professor)
+**University of Toronto**, Mitacs scholarship, Supervisor: [Adam Mott](https://www.utsc.utoronto.ca/biosci/adam-mott)(Assistant Professor), July-Oct. 2024
 
 - Mott lab focuses on Plant Cell Receptor (LRR-RLKs) Evolution and Function.
 - Screened BRR (broad-range resistance genes)-knockout mutants for abnormal responses to pathogen signals and other stresses, using classical methods in addition to high-throughput screening and network analysis, in order to identify the immune function of BRRs.
