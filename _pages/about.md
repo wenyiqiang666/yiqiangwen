@@ -73,9 +73,12 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 </div>
 </div>
 
-- **Eco-Friendly Protein Source: Black Soldier Fly Larvae as a Fishmeal Substitute**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mitacs 2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Eco-Friendly Protein Source: Black Soldier Fly Larvae as a Fishmeal Substitute**
   
-    China Agricultural University, Supervisor: Songjian Nan (Associate Professor)	**Oct. 2022 – June.2024**
+  China Agricultural University, Supervisor: Songjian Nan (Associate Professor)	**Oct. 2022 – June.2024**
 
 - **Construction and Mining of Poaceae Species Diversity Database**
  
