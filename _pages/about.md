@@ -105,6 +105,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 - Haoyang Zhang, **Yiqiang Wen**, Junpeng Qu, Songjian Nan. Study on the growth characteristics of the larva of the Black soldier fly in the mixed substrate of bran and bean curd residue. Hubei Agricultural Science. 2024, 63 (7): 129-133, 153.
 - **Yiqiang Wen**, Haoyang Zhang, Junyang Li, Songjian Nan.02322532515.3: [**The invention relates to an intelligent assembled larval breeding device of the Hermetia illucens**]() 2023.9.18. Chinese Patent.
 - Haoyang Zhang, **Yiqiang Wen**, Junyang Li, Songjian Nan 202322532458.9: The invention relates to an intelligent welfare physiological monitoring chicken coop. 2023.9.18. Chinese Patent.
+- Based on the orthogonal test and entropy weighting method on the Exploration of crucian carp (Carassius auratus) seedling feeds with the addition of black soldier flies (Hermetia illucens) [**submitted**]
 
 # 💻 Internships
 - <strong>*2023.08 - 2023.12*, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences,</strong> Yantai.
