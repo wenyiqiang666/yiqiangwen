@@ -47,6 +47,16 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 🧪 Research Project 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mitacs 2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Flavonoids as Multi-Target Modulators in Alzheimer's Disease**
+
+Supervisor: Dong Yang (Associate Professor)
+
+- Investigated the therapeutic potential of flavonoids in Alzheimer's disease, focusing on their effects on multiple pathological processes, particularly their ability to disaggregate pre-formed Aβ fibrils.
+- Screened 17 flavonoids via ThT fluorescence assays and confocal microscopy to expand evidence for flavonoid-mediated Aβ fibril disaggregation, identifying lead compounds.
+- Conducted structure–activity relationship (SAR) analysis and systematic literature synthesis, classifying flavonoid mechanisms of action across multiple AD-related targets and highlighting their therapeutic potential in Alzheimer's disease, **culminating in a first-author review article.**
 </div>
 </div>
 
