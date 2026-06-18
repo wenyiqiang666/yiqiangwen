@@ -23,7 +23,7 @@ Hello, everyone！My name is Yiqiang Wen. Currently, I’m conducting paper writ
 My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
 [Download CV here](assets/Yiqiang Wen CV.pdf)
 
-📍Now seeking a Msc/PhD. position
+📍Now seeking a Msc/PhD position
 
 # 🎓 Educations
 - *2021.09 - 2025.07*, <strong>China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
