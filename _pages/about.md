@@ -109,13 +109,13 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 
 # 💻 Internships
-- <strong>*2023.08 - 2023.12*, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences,</strong> Yantai.
+<strong>*2023.08 - 2023.12*, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences,</strong> Yantai.
 - Supervisor: Wenjun Li (Associate Researcher)
 - Studied the protein structure and disease treatment effectiveness of phycocyanin and phycocyanobilin.
 - Conducted literature review and developed purification protocols for phycocyanin, assisting in protein purification and preparation for downstream in vivo studies.
 - Participated in mouse experiments, including oral gavage, physiological measurements, and sample collection to investigate the therapeutic potential of phycocyanin in pulmonary fibrosis-related models.
 
-- <strong>*2022.04 - 2022.06*, Institute of Botany, Chinese Academy of Sciences (IB-CAS), Chinese Academy of Sciences,</strong> Beijing.
+<strong>*2022.04 - 2022.06*, Institute of Botany, Chinese Academy of Sciences (IB-CAS), Chinese Academy of Sciences,</strong> Beijing.
 - Supervisor: Wenli Chen (Associate Researcher)
 - Responsible for sorting and cataloging plant specimens for the National Herbarium (PE) at IB-CAS.
 
