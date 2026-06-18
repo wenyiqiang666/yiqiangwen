@@ -23,18 +23,18 @@ Hello, everyone！My name is Yiqiang Wen. Currently, I’m conducting paper writ
 My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
 [Download CV here](assets/Yiqiang Wen CV.pdf)
 
-📍Now seeking a research assistant position
+📍Now seeking a Msc/PhD. position
 
 # 🎓 Educations
-- *2021.09 - 2025.07 (now)*, <strong>China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
+- *2021.09 - 2025.07*, <strong>China Agricultural University, Bachelor of Agriculture in Aquaculture</strong>
 
   GPA: 3.65/4.0      [Transcript](assets/Yiqiang Wen Transcript.pdf)
   
-  Core Curriculum: 	Biochemistry, Cell & Molecular Biology, Genetics, Histology, Botany,  Embryology, Microbiology, Zoology, Physiology, Organic chemistry
+  Core Curriculum: 	Biochemistry, Cell & Molecular Biology, Genetics, Histology, Botany,  Embryology, Microbiology, Physiology, Organic chemistry
 
 - *2022.07 - 2023.12*, <strong>Institute of Botany, Chinese Academy of Sciences (IB-CAS)</strong>
 
-  Joint-Training Program, Supervisor: Wenli Chen (Associate Researcher), Construction and Mining of Poaceae Species Diversity Database
+  Joint Research Training Program, Supervisor: Wenli Chen (Associate Researcher), Construction and Mining of Poaceae Species Diversity Database
 
   State Key Laboratory of Systematic and Evolutionary Botany
   
@@ -102,17 +102,18 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 📝 Publication & Patants
 
+- **Yiqiang Wen**, Dong Yang. Flavonoids for the whole course of treatment of Alzheimer's disease. (Manuscript in preparation for submission)
 - Haoyang Zhang, **Yiqiang Wen**, Junpeng Qu, Songjian Nan. Study on the growth characteristics of the larva of the Black soldier fly in the mixed substrate of bran and bean curd residue. Hubei Agricultural Science. 2024, 63 (7): 129-133, 153.
 - **Yiqiang Wen**, Haoyang Zhang, Junyang Li, Songjian Nan.02322532515.3: [**The invention relates to an intelligent assembled larval breeding device of the Hermetia illucens**]() 2023.9.18. Chinese Patent.
 - Haoyang Zhang, **Yiqiang Wen**, Junyang Li, Songjian Nan 202322532458.9: The invention relates to an intelligent welfare physiological monitoring chicken coop. 2023.9.18. Chinese Patent.
-- Based on the orthogonal test and entropy weighting method on the Exploration of crucian carp (Carassius auratus) seedling feeds with the addition of black soldier flies (Hermetia illucens) [**submitted**]
+
 
 # 💻 Internships
 - <strong>*2023.08 - 2023.12*, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences,</strong> Yantai.
 - Supervisor: Wenjun Li (Associate Researcher)
-- Investigated effects of phycocyanin on both pulmonary and gut microbiota in a pulmonary fibrosis model.
-- Conducted literature review on the bioactivities of phycocyanobilin derived from Spirulina.
-- Designed two experiments for extraction and preparation of phycocyanobilin.
+- Studied the protein structure and disease treatment effectiveness of phycocyanin and phycocyanobilin.
+- Conducted literature review and developed purification protocols for phycocyanin, assisting in protein purification and preparation for downstream in vivo studies.
+- Participated in mouse experiments, including oral gavage, physiological measurements, and sample collection to investigate the therapeutic potential of phycocyanin in pulmonary fibrosis-related models.
 
 - <strong>*2022.04 - 2022.06*, Institute of Botany, Chinese Academy of Sciences (IB-CAS), Chinese Academy of Sciences,</strong> Beijing.
 - Supervisor: Wenli Chen (Associate Researcher)
@@ -121,6 +122,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
  
 
 # 🏆 Honors and Awards
+- *2024*, <strong>First Prize,<strong> National Undergraduate Competition on Agriculture, Architecture, Environment, and Energy Engineering
 - *2024*, <strong>Merit Student,</strong> China Agricultural University
 - *2024*, <strong>Literary and Sports Merit Scholarship,</strong> China Agricultural University
 - *2023*, <strong>Third Prize in Biochemistry Laboratory Skills,</strong> Biochemistry Innovation & Entrepreneurship Competition
