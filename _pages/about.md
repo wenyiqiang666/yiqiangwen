@@ -34,7 +34,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 - *2022.07 - 2023.12*, <strong>Institute of Botany, Chinese Academy of Sciences (IB-CAS)</strong>
 
-  Joint Research Training Program, Supervisor: Wenli Chen (Associate Researcher), Construction and Mining of Poaceae Species Diversity Database
+  Joint Research Training Program, Supervisor: Wenli Chen (Associate Researcher)
 
   State Key Laboratory of Systematic and Evolutionary Botany
   
