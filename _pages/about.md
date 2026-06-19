@@ -47,7 +47,7 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 🧪 Research Project 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Figure in manuscript</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Figure 1. in manuscript</div><img src='images/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Flavonoids as Multi-Target Modulators in Alzheimer's Disease**
