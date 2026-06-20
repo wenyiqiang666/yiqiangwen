@@ -45,8 +45,11 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 - Cancer therapy
 - Phylogenetic and systematic biology
 
-# 🧪 Research Project 
+# 🧪 Research Experience 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mitacs 2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 **Protein Stability and Conformational Regulation under Redox Conditions**
 
 Collaborative project with computational protein modeling groups at UIUC
