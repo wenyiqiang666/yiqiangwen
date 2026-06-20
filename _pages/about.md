@@ -52,11 +52,9 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 **Flavonoids as Multi-Target Modulators in Alzheimer's Disease**
 
-Supervisor: Dong Yang (Associate Professor)
-
 - Investigated the therapeutic potential of flavonoids in Alzheimer's disease, focusing on their effects on multiple pathological processes, particularly their ability to disaggregate pre-formed Aβ fibrils.
-- Screened 17 flavonoids via ThT fluorescence assays and confocal microscopy to expand evidence for flavonoid-mediated Aβ fibril disaggregation, identifying lead compounds.
-- Conducted structure–activity relationship (SAR) analysis and systematic literature synthesis, classifying flavonoid mechanisms of action across multiple AD-related targets and highlighting their therapeutic potential in Alzheimer's disease, **culminating in a first-author review article.**
+- Screened 17 flavonoids via ThT fluorescence assays and confocal microscopy to expand evidence for flavonoid-mediated Aβ fibril disaggregation.
+- Conducted systematic literature synthesis and structure–activity relationship (SAR) analysis, classifying flavonoid mechanisms of action across multiple AD-related targets and highlighting their therapeutic potential in Alzheimer's disease, **culminating in a first-author review article.**
 </div>
 </div>
 
