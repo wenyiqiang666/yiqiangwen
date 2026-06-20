@@ -47,7 +47,18 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 🧪 Research Project 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Figure 1. in manuscript</div><img src='images/5.png' alt="sym" width="100%"></div></div>
+**Protein Stability and Conformational Regulation under Redox Conditions**
+
+Collaborative project with computational protein modeling groups at UIUC
+
+-	Investigated the effects of redox-dependent disulfide bond formation on protein conformation and stability through comparative analysis of diverse protein systems.
+-	Contributed to plasmid design and expression vector optimization through molecular cloning, plasmid editing, and vector replacement for bacterial expression of 12 single-subunit, multi-domain proteins. 
+-	Recombinant Protein Expression & Purification: Optimized expression conditions for multiple proteins to address poor expression and inclusion body formation, followed by chromatographic purification to obtain highly purified protein samples for biophysical characterization.
+-	Characterized protein conformation and stability by comparing secondary structure and thermal stability under oxidizing and reducing conditions using circular dichroism (CD) spectroscopy.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Figure in manuscript</div><img src='images/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Flavonoids as Multi-Target Modulators in Alzheimer's Disease**
