@@ -40,11 +40,12 @@ My research is driven by curiosity and a desire to understand the molecular mech
   State Key Laboratory of Systematic and Evolutionary Botany
   
 # 🔥 Research Interest
-- Signaling pathway
-- Molecular mechanism of disease
-- Immunology
-- Cancer therapy
-- Phylogenetic and systematic biology
+
+- Protein Structure and Stability
+- Protein Aggregation and Misfolding
+- Molecular Mechanisms of Disease
+- Neurodegenerative Diseases
+- Natural Small-Molecule Drug Discovery
 
 # 🧪 Research Experience 
 
