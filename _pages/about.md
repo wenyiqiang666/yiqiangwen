@@ -83,18 +83,18 @@ Collaborative project with computational protein modeling groups at UIUC
 
 **University of Toronto**, Mitacs scholarship, Supervisor: [Adam Mott](https://www.utsc.utoronto.ca/biosci/adam-mott)(Assistant Professor), July-Oct. 2024
 
-- Mott lab focuses on Plant Cell Receptor (LRR-RLKs) Evolution and Function.
-- Screened BRR (broad-range resistance genes)-knockout mutants for abnormal responses to pathogen signals and other stresses, using classical methods in addition to high-throughput screening and network analysis, in order to identify the immune function of BRRs.
-- Genome editing / Genotyping / PCR / Plant cultivation / Stomata image processing
+-	Performed phenotypic screening of BRR (broad-range resistance genes) knockout mutants under pathogen-associated and abiotic stress conditions to investigate receptor-mediated immune responses.
+- Designed and conducted stomatal and water-loss assays, analyzing phenotypic data to test drought-response hypotheses and support a potential role of BRRs in drought tolerance.
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IB-CAS</div><img src='images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IB-CAS 2024</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Phylogenetic and Systematic Research about Needle Grasses (Poaceae: Pooideae: Stipeae)**
 
-**Chinese Academy of Sciences**, Supervisor: [Wenli Chen](http://www.lseb.cn/yjdw/yjry/fyjy/202001/t20200111_538949.html)(Associate Researcher), Oct. 2023 – Present
+**Chinese Academy of Sciences**, Supervisor: [Wenli Chen](http://www.lseb.cn/yjdw/yjry/fyjy/202001/t20200111_538949.html)(Associate Researcher), Oct. 2023 – Feb. 2025
 
 - This research is based on analysis of **chloroplast genome, ITS, Cytogenetics (chromosome), and lemma micromorphology**.
 - Investigate the systematic and evolutionary relationships within the needle grass tribe of the Poaceae family through both fieldwork and laboratory research, and **conduct taxonomic revisions**.
