@@ -75,7 +75,7 @@ Collaborative project with computational protein modeling groups at UIUC
 </div>
 </div>
 
-**Previous research**
+**Previous research experience**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mitacs 2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,6 +83,7 @@ Collaborative project with computational protein modeling groups at UIUC
 
 **University of Toronto**, Mitacs scholarship, Supervisor: [Adam Mott](https://www.utsc.utoronto.ca/biosci/adam-mott)(Assistant Professor), July-Oct. 2024
 
+- The [Mott lab]() focuses on the evolution and function of plant cell receptors (LRR-RLKs).
 -	Performed phenotypic screening of BRR (broad-range resistance genes) knockout mutants under pathogen-associated and abiotic stress conditions to investigate receptor-mediated immune responses.
 - Designed and conducted stomatal and water-loss assays, analyzing phenotypic data to test drought-response hypotheses and support a potential role of BRRs in drought tolerance.
 
