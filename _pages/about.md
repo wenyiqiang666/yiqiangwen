@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #   About me
-Hello, everyone！My name is Yiqiang Wen. Currently, I’m conducting paper writing work in a project at <strong>Institute of Botany, Chinese Academy of Sciences (IB-CAS)</strong>. Last summer, I have been doing research as an undergraduate researcher at University of Toronto in [the Mott Lab](http://www.themottlab.com/). My research pursuits primarily revolve around the realms of cellular and molecular biology, with a keen focus on elucidating the signaling pathways within the cell system. 
+Hello, everyone! My name is Yiqiang Wen. I am currently a Research Assistant in a biochemistry lab at China Agricultural University. My current research focuses on protein stability and aggregation. My research interests center on protein biochemistry and the molecular basis of human diseases. 
 
-My scholarly endeavors are fundamentally motivated by a profound aspiration to venture into the frontier of scientific research. I am driven by an insatiable curiosity to unravel the systematic underpinnings of life itself, a pursuit that I find profoundly meaningful and captivating.
+My research is driven by curiosity and a desire to understand the molecular mechanisms underlying life and disease. Currently, I am particularly interested in neurodegenerative disorders, especially Alzheimer's disease, and hope to contribute to the development of future therapeutic strategies through fundamental mechanistic research. Ultimately, I aspire to conduct research that helps reduce the burden of disease and improve human health. 
 [Download CV here](assets/Yiqiang Wen CV.pdf)
 
 📍Now seeking a Msc/PhD position
@@ -47,7 +47,9 @@ My scholarly endeavors are fundamentally motivated by a profound aspiration to v
 
 # 🧪 Research Experience 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mitacs 2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+**Current research**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In preparaion</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Protein Stability and Conformational Regulation under Redox Conditions**
@@ -72,6 +74,7 @@ Collaborative project with computational protein modeling groups at UIUC
 </div>
 </div>
 
+**Previous research**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mitacs 2024</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -85,7 +88,7 @@ Collaborative project with computational protein modeling groups at UIUC
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">expected to publish in Nov.</div><img src='images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IB-CAS</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Phylogenetic and Systematic Research about Needle Grasses (Poaceae: Pooideae: Stipeae)**
@@ -148,6 +151,7 @@ Collaborative project with computational protein modeling groups at UIUC
 
 # 🏆 Honors and Awards
 - *2024*, <strong>First Prize,<strong> National Undergraduate Competition on Agriculture, Architecture, Environment, and Energy Engineering
+- *2024*, <strong>Globalink Research Internship (GRI) Award,<strong> Mitacs& University of Toronto, Canada
 - *2024*, <strong>Merit Student,</strong> China Agricultural University
 - *2024*, <strong>Literary and Sports Merit Scholarship,</strong> China Agricultural University
 - *2023*, <strong>Third Prize in Biochemistry Laboratory Skills,</strong> Biochemistry Innovation & Entrepreneurship Competition
@@ -165,9 +169,13 @@ Collaborative project with computational protein modeling groups at UIUC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">conduct q-PCR</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **⚗️Experimental Skills:**	bacteria/cell cultivation / plant cultivation / chromosome slide-making technique/ DNA extraction, amplification, and sequencing / q-PCR / genome editing / genotyping / phylogenetic analyses / phylogeny tree/ protein purification / gel electrophoresis / centrifugation/ scanning electron microscopy / fluorescence microscopy
+**⚗️Experimental Skills:**
+- **Protein Biochemistry:** Recombinant protein expression, protein purification (affinity, ion-exchange, and size-exclusion chromatography), ÄKTA Purifier (FPLC), SDS-PAGE, fluorescence-based aggregation assays (ThT), circular dichroism (CD) spectroscopy, protein quantification (BCA), mass spectrometry verification
+- **Molecular Biology:** Molecular cloning, plasmid construction, sequence analysis and verification, PCR primer design, bacterial transformation, agarose gel electrophoresis, genotyping, quantitative PCR (qPCR)  
+- **Microscopy & Imaging:** Confocal fluorescence microscopy, electron microscopy (SEM/TEM)
 
-- **🖥️Computer Skills:**	SPSS / Solidworks (CAD Modeling) / Visual Basics / Photoshop / webpage building
+
+**🖥️Data Analysis & Software:**	GraphPad Prism, SnapGene, SPSS, ImageJ, Adobe Illustrator, Adobe Photoshop, PyMOL, webpage development, SolidWorks (CAD), Visual Basic
 
 </div>
 </div>
