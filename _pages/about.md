@@ -178,7 +178,9 @@ Collaborative project with computational protein modeling groups at UIUC
 - **Microscopy & Imaging:** Confocal fluorescence microscopy, electron microscopy (SEM/TEM)
 
 
-**🖥️Data Analysis & Software:**	GraphPad Prism, SnapGene, SPSS, ImageJ, Adobe Illustrator, Adobe Photoshop, PyMOL, webpage development, SolidWorks (CAD), Visual Basic
+**🖥️Data Analysis & Software:**
+
+GraphPad Prism, SnapGene, SPSS, ImageJ, Adobe Illustrator, Adobe Photoshop, PyMOL, webpage development, SolidWorks (CAD), Visual Basic
 
 </div>
 </div>
