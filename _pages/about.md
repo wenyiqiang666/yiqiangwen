@@ -49,7 +49,7 @@ My research is driven by curiosity and a desire to understand the molecular mech
 # 🧪 Research Experience 
 
 **Current research**
-
+Research Assistant, China Agricultural University, Supervisor: Dong Yang 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In preparaion</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -57,7 +57,6 @@ My research is driven by curiosity and a desire to understand the molecular mech
 
 Collaborative project with computational protein modeling groups at UIUC
 
--	Investigated the effects of redox-dependent disulfide bond formation on protein conformation and stability through comparative analysis of diverse protein systems.
 -	Contributed to plasmid design and expression vector optimization through molecular cloning, plasmid editing, and vector replacement for bacterial expression of 12 single-subunit, multi-domain proteins. 
 -	Recombinant Protein Expression & Purification: Optimized expression conditions for multiple proteins to address poor expression and inclusion body formation, followed by chromatographic purification to obtain highly purified protein samples for biophysical characterization.
 -	Characterized protein conformation and stability by comparing secondary structure and thermal stability under oxidizing and reducing conditions using circular dichroism (CD) spectroscopy.
