@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #   About me
-Hello, everyone! My name is Yiqiang Wen. I am currently a Research Assistant in a biochemistry lab at China Agricultural University. My current research focuses on protein stability and aggregation. My research interests center on protein biochemistry and the molecular basis of human diseases. 
+Hello, everyone! My name is Yiqiang Wen. I am currently a Research Assistant in a biochemistry lab at China Agricultural University. My current research focuses on protein biochemistry, investigating how protein conformational stability is regulated by redox conditions and how natural small molecules modulate amyloid-β aggregation in Alzheimer's disease. 
 
 My research is driven by curiosity and a desire to understand the molecular mechanisms underlying life and disease. Currently, I am particularly interested in neurodegenerative disorders, especially Alzheimer's disease, and hope to contribute to the development of future therapeutic strategies through fundamental mechanistic research. Ultimately, I aspire to conduct research that helps reduce the burden of disease and improve human health. 
 
