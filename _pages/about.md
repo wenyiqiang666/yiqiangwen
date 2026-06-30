@@ -52,7 +52,7 @@ My research is driven by curiosity and a desire to understand the molecular mech
 **Current research**
 
 Research Assistant, China Agricultural University, Supervisor: [Dong Yang](https://www.researchgate.net/profile/Dong-Yang-60) (Associate Professor)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In preparaion</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Article in preparaion</div><img src='images/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Protein Stability and Conformational Regulation under Redox Conditions**
